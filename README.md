@@ -1,1 +1,2 @@
-# next_js_template
+app exec
+`docker compose exec app /bin/sh`
